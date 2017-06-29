@@ -1,0 +1,19 @@
+{
+  "name": "cat_mathquill_build",
+  "description": "Easily type math in your app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/catisgirl/cat_mathquill_build.git"
+  },
+  "keywords": [
+    "mathquill",
+    "latex",
+    "math"
+  ],
+  "author": "cat",
+  "license": "MPL-2.0",
+  "homepage":"https://github.com/catisgirl/cat_mathquill_build"
+}
